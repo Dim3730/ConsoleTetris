@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\ConsoleTetris\ConsoleTetris\bin\Debug\ConsoleTetris.exe.config
+C:\Users\admin\source\repos\ConsoleTetris\ConsoleTetris\bin\Debug\ConsoleTetris.exe
+C:\Users\admin\source\repos\ConsoleTetris\ConsoleTetris\bin\Debug\ConsoleTetris.pdb
+C:\Users\admin\source\repos\ConsoleTetris\ConsoleTetris\obj\Debug\ConsoleTetris.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleTetris\ConsoleTetris\obj\Debug\ConsoleTetris.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleTetris\ConsoleTetris\obj\Debug\ConsoleTetris.exe
+C:\Users\admin\source\repos\ConsoleTetris\ConsoleTetris\obj\Debug\ConsoleTetris.pdb
+C:\Users\user\Desktop\Практика\ConsoleTetris\ConsoleTetris\ConsoleTetris\bin\Debug\ConsoleTetris.exe.config
+C:\Users\user\Desktop\Практика\ConsoleTetris\ConsoleTetris\ConsoleTetris\bin\Debug\ConsoleTetris.exe
+C:\Users\user\Desktop\Практика\ConsoleTetris\ConsoleTetris\ConsoleTetris\bin\Debug\ConsoleTetris.pdb
+C:\Users\user\Desktop\Практика\ConsoleTetris\ConsoleTetris\ConsoleTetris\obj\Debug\ConsoleTetris.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Практика\ConsoleTetris\ConsoleTetris\ConsoleTetris\obj\Debug\ConsoleTetris.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Практика\ConsoleTetris\ConsoleTetris\ConsoleTetris\obj\Debug\ConsoleTetris.exe
+C:\Users\user\Desktop\Практика\ConsoleTetris\ConsoleTetris\ConsoleTetris\obj\Debug\ConsoleTetris.pdb
